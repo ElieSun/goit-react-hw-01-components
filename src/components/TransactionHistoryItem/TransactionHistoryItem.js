@@ -1,4 +1,4 @@
-import { TableRow, TableData } from './TransactionHistoryItem.styled';
+import { TableRow, TableData } from 'components/TransactionHistoryItem/TransactionHistoryItem.styled';
 import PropTypes from 'prop-types';
 
 export const TransactionHistoryItem = ({item : {type, amount, currency}, index}) => {

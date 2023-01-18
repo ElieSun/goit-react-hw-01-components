@@ -1,4 +1,4 @@
-import { Item, Label, Percentage } from './StatisticItem.styled';
+import { Item, Label, Percentage } from 'components/StatisticItem/StatisticItem.styled';
 import randomColor from "randomcolor";
 import PropTypes from 'prop-types';
 

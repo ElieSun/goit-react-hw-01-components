@@ -7,7 +7,7 @@ import {    Card,
             Stats, 
             Item, 
             Label, 
-            Quantity } from './Profile.styled';
+            Quantity } from 'components/Profile/Profile.styled';
 
 import PropTypes from 'prop-types';
 
